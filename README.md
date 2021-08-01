@@ -1,9 +1,9 @@
 # TkinterSidebar2
 ## Dependencies
-tkinter
-tkinter.ttk
-functools
-pillow/PIL
+- tkinter
+- tkinter.ttk
+- functools
+- pillow/PIL
 
 
 ## Description
